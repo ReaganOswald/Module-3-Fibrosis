@@ -10,12 +10,12 @@ import pandas as pd
 
 # Image filenames
 filenames = [
-    r"/Users/tomas/CompBME/Module-3-Fibrosis/images/MASK_Sk658 Llobe ch010017.jpg",
-    r"/Users/tomas/CompBME/Module-3-Fibrosis/images/MASK_Sk658 Llobe ch010018.jpg",
-    r"/Users/tomas/CompBME/Module-3-Fibrosis/images/MASK_Sk658 Llobe ch010019.jpg",
-    r"/Users/tomas/CompBME/Module-3-Fibrosis/images/MASK_Sk658 Llobe ch010021.jpg",
-    r"/Users/tomas/CompBME/Module-3-Fibrosis/images/MASK_Sk658 Llobe ch010022.jpg",
-    r"/Users/tomas/CompBME/Module-3-Fibrosis/images/MASK_Sk658 Llobe ch010023.jpg",
+    r"C:\Users\Reaga\OneDrive\Desktop\BME_2315\Module-3-Fibrosis\images\MASK_Sk658 Llobe ch010017.jpg",
+    r"C:\Users\Reaga\OneDrive\Desktop\BME_2315\Module-3-Fibrosis\images\MASK_Sk658 Llobe ch010018.jpg",
+    r"C:\Users\Reaga\OneDrive\Desktop\BME_2315\Module-3-Fibrosis\images\MASK_Sk658 Llobe ch010019.jpg",
+    r"C:\Users\Reaga\OneDrive\Desktop\BME_2315\Module-3-Fibrosis\images\MASK_Sk658 Llobe ch010021.jpg",
+    r"C:\Users\Reaga\OneDrive\Desktop\BME_2315\Module-3-Fibrosis\images\MASK_Sk658 Llobe ch010022.jpg",
+    r"C:\Users\Reaga\OneDrive\Desktop\BME_2315\Module-3-Fibrosis\images\MASK_Sk658 Llobe ch010023.jpg",
 ]
 
 # Depths (microns)
