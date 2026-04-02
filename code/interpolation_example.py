@@ -22,9 +22,9 @@ print("A = ", A)
 
 # # Compute one specific point (x=2)
 a1, a2 = A
-x_value = 2
+x_value = 2.5
 y_value = a1 + a2 * x_value
-print("At x = 2, y =", y_value)
+print("At x = 2.5, y =", y_value)
 
 # # Plot the line
 x = np.linspace(0, 5, 100)
@@ -79,9 +79,9 @@ y = a1 + a2 * x + a3 * x**2
 plt.scatter(x_points, y_points, color='blue', s=60, label='Known Points')
 
 # Compute one specific point (x=4)
-x_value = 4
+x_value = 2
 y_value = a1 + a2 * x_value + a3 * x_value**2
-print("At x = 4, y =", y_value)
+print("At x = 2, y =", y_value)
 
 # Plot the parabola
 plt.plot(x, y, label='y = 0.375 + 0.5x + 0.125x²')
